@@ -1,0 +1,22 @@
+.feedback,label{
+    color: #CDCDB3;
+}
+.btn
+{
+    border:1px solid #CDCDB3;
+    color: #CDCDB3;
+}
+
+.btn:enabled
+{
+    border:1px solid #CDCDB3;
+    color: #CDCDB3;
+}
+.form-control,.input-group{
+    background-color: #CDCDB3;
+}
+.form-control:enabled{
+    outline: none !important;
+    box-shadow: none !important;
+    border:1px solid #CDCDB3;
+}
